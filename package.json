@@ -1,0 +1,15 @@
+{
+  "name": "ci-cd-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^4.22.2",
+    "express-session": "^1.19.0",
+    "passport": "^0.7.0",
+    "passport-azure-ad": "^4.3.5"
+  }
+}
